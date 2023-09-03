@@ -1,5 +1,0 @@
-{{#user}}
-Name: Vignesh Varadhan K
-Skills: HTML, CSS, JS, Node.js, Express JS, MongoDB, MySQL, AXIOS, REST API, GIT/GITHUB, DSA, Postman,AWS EC2,RDS,S3, JWT, Mongoose, Sequelize
-Email: vigneshvarathan@gmail.com
-{{/user}}
